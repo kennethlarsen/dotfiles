@@ -10,4 +10,4 @@ is needed.
 
 ## vim
 
-For the initial setup I use (https://github.com/amix/vimrc)[https://github.com/amix/vimrc]. The file `my_configs.vim` contains my vim settings besides the ones in amix/vimrc.
+For the initial setup I use (amix/vimrc)[https://github.com/amix/vimrc]. The file `my_configs.vim` contains my vim settings besides the ones in amix/vimrc.
